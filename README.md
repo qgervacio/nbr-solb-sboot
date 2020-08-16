@@ -6,7 +6,7 @@ using a delay plugin.
 
 ## Design
 
-You will need a total of 4 queues in order to utilize this solution.
+You will need a total of 2 queues in order to utilize this solution.
 
 | Queue Name     | Purpose                                                       | Sample            |
 |----------------|---------------------------------------------------------------|-------------------|
